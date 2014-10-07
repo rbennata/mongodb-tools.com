@@ -66,6 +66,10 @@
     </url>
 
     <url>
+        <loc>http://mongodb-tools.com/tool/jsonstudio/</loc>
+    </url>
+
+    <url>
         <loc>http://mongodb-tools.com/tool/manageengine/</loc>
     </url>
 
